@@ -1,0 +1,15 @@
+C:\vs\sda oel zain\sda oel zain\bin\Debug\sda oel zain.exe.config
+C:\vs\sda oel zain\sda oel zain\bin\Debug\sda oel zain.exe
+C:\vs\sda oel zain\sda oel zain\bin\Debug\sda oel zain.pdb
+C:\vs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.csproj.AssemblyReference.cache
+C:\vs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.csproj.SuggestedBindingRedirects.cache
+C:\vs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.csproj.CoreCompileInputs.cache
+C:\vs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.exe
+C:\vs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.pdb
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\bin\Debug\sda oel zain.exe.config
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\bin\Debug\sda oel zain.exe
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\bin\Debug\sda oel zain.pdb
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.csproj.AssemblyReference.cache
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.csproj.CoreCompileInputs.cache
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.exe
+D:\UniStuff\4th sem programs\sda oel zain\sda oel zain\obj\Debug\sda oel zain.pdb
