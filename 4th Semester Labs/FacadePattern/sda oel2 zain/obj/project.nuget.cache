@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJnao/9dDvE=",
+  "success": true,
+  "projectFilePath": "D:\\UniStuff\\4th sem programs\\sda oel2 zain\\sda oel2 zain\\sda oel2 zain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mzain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mzain\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mzain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mzain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

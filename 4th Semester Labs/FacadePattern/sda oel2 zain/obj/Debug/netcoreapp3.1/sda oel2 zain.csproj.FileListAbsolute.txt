@@ -1,0 +1,14 @@
+C:\vs\sda oel2 zain\sda oel2 zain\bin\Debug\netcoreapp3.1\sda oel2 zain.exe
+C:\vs\sda oel2 zain\sda oel2 zain\bin\Debug\netcoreapp3.1\sda oel2 zain.deps.json
+C:\vs\sda oel2 zain\sda oel2 zain\bin\Debug\netcoreapp3.1\sda oel2 zain.runtimeconfig.json
+C:\vs\sda oel2 zain\sda oel2 zain\bin\Debug\netcoreapp3.1\sda oel2 zain.runtimeconfig.dev.json
+C:\vs\sda oel2 zain\sda oel2 zain\bin\Debug\netcoreapp3.1\sda oel2 zain.dll
+C:\vs\sda oel2 zain\sda oel2 zain\bin\Debug\netcoreapp3.1\sda oel2 zain.pdb
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.csproj.AssemblyReference.cache
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.AssemblyInfoInputs.cache
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.AssemblyInfo.cs
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.csproj.CoreCompileInputs.cache
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.dll
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.pdb
+C:\vs\sda oel2 zain\sda oel2 zain\obj\Debug\netcoreapp3.1\sda oel2 zain.genruntimeconfig.cache

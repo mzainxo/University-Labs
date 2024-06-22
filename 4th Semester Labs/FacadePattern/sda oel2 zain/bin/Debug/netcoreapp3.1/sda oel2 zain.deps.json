@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sda oel2 zain/1.0.0": {
+        "runtime": {
+          "sda oel2 zain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sda oel2 zain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
