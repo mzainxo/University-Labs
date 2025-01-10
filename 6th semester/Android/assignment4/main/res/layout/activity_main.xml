@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgmclaren"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thread Status: NEW"
+        android:layout_marginTop="4dp"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:padding="12dp"/>
+
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start thread"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/black"
+        android:backgroundTint="#AAD06922"
+        android:padding="10dp"/>
+
+    <Button
+        android:id="@+id/button_block"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Block thread"
+        android:backgroundTint="#AAD06922"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:padding="10dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/button_wait"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#AAD06922"
+        android:textColor="@color/black"
+        android:text="Wait thread"
+        android:fontFamily="sans-serif"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/button_timed_wait"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#AAD06922"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="Timed wait thread"
+        android:fontFamily="sans-serif"
+        android:padding="10dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/button_interrupt"
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#AAD06922"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:text="Interrupt thread"
+        android:padding="10dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/button_notify"
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:backgroundTint="#AAD06922"
+        android:text="Notify thread"
+        android:padding="10dp"
+        android:visibility="gone"/>
+
+    <ScrollView
+        android:id="@+id/scrollView_log"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:layout_marginTop="10dp"
+        android:background="#55D06922"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/textView_log"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOG\n-----------------------------------\n"
+            android:padding="12sp"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:fontFamily="monospace"/>
+
+    </ScrollView>
+
+</LinearLayout>
