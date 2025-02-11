@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bgferrari5"
+    tools:context=".MainActivity">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/numericValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:fontFamily="serif"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"/>
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_below="@id/numericValue"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:id="@+id/scrollText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:textSize="16sp"
+                android:textColor="#ff0318"
+                android:text="Scroll this text using volume keys.\n\nAli haider\nMuhammad Zain \nNadeem Bhatti\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10\nLine 11\nLine 12\nLine 13\nLine 14\nLine 15" />
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/zoomText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Zoom this text using volume keys"
+            android:textSize="16sp"
+            android:layout_below="@id/scrollView"
+            android:layout_marginTop="20dp"
+            android:textColor="#ff0318"
+            android:fontFamily="serif"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+    </LinearLayout>
+
+
+
