@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bgferrari5"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:id="@+id/labelferrari"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="serif"
+            android:text="Lifecycle\nEvents Log"
+            android:textColor="@color/white"
+            android:textFontWeight="700"
+            android:textSize="34dp" />
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="1dp"
+            app:srcCompat="@drawable/f1logo" />
+
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:fontFamily="monospace"
+            android:textColor="@color/white"/>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="10dp">
+
+        <Button
+            android:id="@+id/DlgButton"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:backgroundTint="#ff0318"
+            android:fontFamily="sans-serif"
+            android:text="Dialog"
+            android:textColor="@android:color/black"
+            android:layout_weight="1"
+            android:textSize="16sp"
+            android:layout_margin="4dp"/>
+
+        <Button
+            android:id="@+id/FullScreenButton"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:backgroundTint="#ff0318"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif"
+            android:text="Full screen"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_margin="4dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
